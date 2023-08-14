@@ -1,0 +1,16 @@
+LOB: NA
+Table/s: NA
+Issue: SAS Connection Issue with Hadoop Environment; Hive Server Problem Identified
+Resolution: Pending investigation and resolution by BDPaas Infra Team
+Big Data Owner/s: Srikiran, Yash, Atee
+BI Owner/s: Srini
+Report/s: Current that are yet to be ran
+Request Start Date: 8/14/2023
+Request End Date: NA
+Actual Start Date: 8/14/2023
+Actual End Date: NA
+Delay Reason: Hive server connection issue affecting DBeaver and possibly SAS; Hive metastore was down on 8/13/2023
+Pending From: BDPaas Infra Team
+Dependency: BDPaas Infra Team
+Next-Followup: TBD as per BDPaas Team's response
+Comments: Ticket raised with BDPaas Infra Team for urgent investigation and resolution. Hive shell and Spark jobs are functional, but DBeaver connection to Hive server is failing. Suspected backend service issue. Coordination with SAS team ongoing to identify possible connection issues related to Hive server problem.
